@@ -1,2 +1,2 @@
-# mbinstaller
+# mbfinstaller
 MBFI (MULTI BRUTE FORCE INSTALLER)
