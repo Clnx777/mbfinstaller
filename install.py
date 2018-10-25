@@ -30,7 +30,7 @@ print           ' '
 
 print W+"LIST"+R+".."
 print ' '
-print R+"1"+R+")"+W+"Install MBF"
+print R+"1"+R+")"+W+"Install MBF (by pirmansx)"
 print R+"2"+R+")"+W+"Exit"
 print ' '
 pilih = input ("Choose Number..: ")
