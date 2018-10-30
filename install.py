@@ -21,8 +21,8 @@ def main():
 print W+       ("===================================").center(40)
 print R+       ("MBF MULTI BRUTE FACEBOOK INSTALLER").center(40)
 print W+       ("===================================").center(40)
-print              (R+"[+]"+W+"Coded By andrachocs"+R+"[+]").center(40)
-print W+                     ("Github : github.com/andrachocs").center(35)
+print              (R+"[+]"+W+"Author :andrachocs"+R+"[+]").center(40)
+print W+                     ("Github :https://github.com/clnx777").center(35)
 print           ' '
 
 
