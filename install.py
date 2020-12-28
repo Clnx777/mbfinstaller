@@ -1,6 +1,5 @@
 ############################
 #jgn di recode om ,,
-#cz codingan w ccad ea ,,
 ############################
 
 import time,os,sys
